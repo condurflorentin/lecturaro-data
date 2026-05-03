@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autori>
+    <autor id="1">
+        <nume>Mihai Eminescu</nume>
+        <oras>Iași</oras>
+        <perioada>1850-1889</perioada>
+        <curent>Romantism</curent>
+        <bio>Poet român, considerat una dintre cele mai importante voci ale literaturii române.</bio>
+    </autor>
+    <autor id="2">
+        <nume>Lucian Blaga</nume>
+        <oras>Lancrăm</oras>
+        <perioada>1895-1961</perioada>
+        <curent>Modernism</curent>
+        <bio>Poet, dramaturg și filosof român, asociat cu expresionismul și modernismul.</bio>
+    </autor>
+    <autor id="3">
+        <nume>Ion Creangă</nume>
+        <oras>Iași</oras>
+        <perioada>1837-1889</perioada>
+        <curent>Clasicism</curent>
+        <bio>Scriitor român cunoscut pentru Amintiri din copilărie și poveștile sale.</bio>
+    </autor>
+    <autor id="4">
+        <nume>George Coșbuc</nume>
+        <oras>Cluj-Napoca</oras>
+        <perioada>1866-1918</perioada>
+        <curent>Tradiționalism</curent>
+        <bio>Poet român cunoscut pentru poezia inspirată din viața rurală.</bio>
+    </autor>
+    <autor id="5">
+        <nume>Ioan Slavici</nume>
+        <oras>Hodoș-Bodrog</oras>
+        <perioada>1848-1925</perioada>
+        <curent>Realism</curent>
+        <bio>Scriitor român realist, autor al romanului Mara și al nuvelei Moara cu noroc.</bio>
+    </autor>
+</autori>

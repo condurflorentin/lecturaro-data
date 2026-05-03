@@ -1,0 +1,29 @@
+{
+  "perechi": [
+    {
+      "text1": "Luceafărul",
+      "text2": "Floare Albastră",
+      "scor": 0.91
+    },
+    {
+      "text1": "Luceafărul",
+      "text2": "Eu nu strivesc corola de minuni a lumii",
+      "scor": 0.67
+    },
+    {
+      "text1": "Floare Albastră",
+      "text2": "Eu nu strivesc corola de minuni a lumii",
+      "scor": 0.72
+    },
+    {
+      "text1": "Luceafărul",
+      "text2": "Nunta Zamfirei",
+      "scor": 0.58
+    },
+    {
+      "text1": "Eu nu strivesc corola de minuni a lumii",
+      "text2": "Nunta Zamfirei",
+      "scor": 0.45
+    }
+  ]
+}
