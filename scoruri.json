@@ -1,29 +1,187 @@
 {
+  "versiune": "2.0",
+  "ultima_actualizare": "2024-03-15",
+  "descriere": "Scoruri de similaritate semantica pentru texte din literatura romana, calculate pe baza modelelor de embeddings pentru limba romana",
   "perechi": [
     {
       "text1": "Luceafărul",
       "text2": "Floare Albastră",
-      "scor": 0.91
+      "scor": 0.91,
+      "motiv": "Același autor, teme romantice și mitologice comune, registru poetic similar"
     },
     {
       "text1": "Luceafărul",
       "text2": "Eu nu strivesc corola de minuni a lumii",
-      "scor": 0.67
+      "scor": 0.67,
+      "motiv": "Teme filosofice despre absolut, cunoaștere și condiția umană"
     },
     {
       "text1": "Floare Albastră",
       "text2": "Eu nu strivesc corola de minuni a lumii",
-      "scor": 0.72
+      "scor": 0.72,
+      "motiv": "Poetică romantică și simbolistă, imaginar natural comun"
     },
     {
       "text1": "Luceafărul",
       "text2": "Nunta Zamfirei",
-      "scor": 0.58
+      "scor": 0.58,
+      "motiv": "Elemente mitologice și folclorice, personaje supranaturale"
     },
     {
       "text1": "Eu nu strivesc corola de minuni a lumii",
       "text2": "Nunta Zamfirei",
-      "scor": 0.45
+      "scor": 0.45,
+      "motiv": "Stiluri diferite, unele elemente lirice comune"
+    },
+    {
+      "text1": "Floare Albastră",
+      "text2": "Nunta Zamfirei",
+      "scor": 0.53,
+      "motiv": "Tonalitate lirică, elemente naturale și cromatice comune"
+    },
+    {
+      "text1": "Luceafărul",
+      "text2": "Scrisoarea I",
+      "scor": 0.88,
+      "motiv": "Același autor, tema geniului incompris, cosmogonie, filosofie schopenhaueriană"
+    },
+    {
+      "text1": "Luceafărul",
+      "text2": "Odă (în metru antic)",
+      "scor": 0.82,
+      "motiv": "Același autor, tema depășirii condiției umane, tonalitate gravă"
+    },
+    {
+      "text1": "Scrisoarea I",
+      "text2": "Scrisoarea III",
+      "scor": 0.79,
+      "motiv": "Același autor și ciclu, ton satiric și elegiac, critica societății"
+    },
+    {
+      "text1": "Amintiri din copilărie",
+      "text2": "Moara cu noroc",
+      "scor": 0.38,
+      "motiv": "Proze realist-populare, dar tonalitate și tematică foarte diferite"
+    },
+    {
+      "text1": "Amintiri din copilărie",
+      "text2": "Hanu Ancuței",
+      "scor": 0.61,
+      "motiv": "Atmosferă rurală moldovenească, oralitate și umor popular, evocarea trecutului"
+    },
+    {
+      "text1": "Moara cu noroc",
+      "text2": "Mara",
+      "scor": 0.74,
+      "motiv": "Același autor, realism transilvănean, psihologie personajelor, conflicte morale"
+    },
+    {
+      "text1": "Ion",
+      "text2": "Mara",
+      "scor": 0.69,
+      "motiv": "Romane realiste, tema țăranului român, conflicte sociale și familiale"
+    },
+    {
+      "text1": "Ion",
+      "text2": "Moromeții",
+      "scor": 0.77,
+      "motiv": "Romane despre viața rurală, destinul țăranului, relația cu pământul"
+    },
+    {
+      "text1": "Moromeții",
+      "text2": "Enigma Otiliei",
+      "scor": 0.51,
+      "motiv": "Romane realiste interbelice, dar medii sociale diferite (rural vs urban)"
+    },
+    {
+      "text1": "Enigma Otiliei",
+      "text2": "Ultima noapte de dragoste, întâia noapte de război",
+      "scor": 0.63,
+      "motiv": "Romane interbelice, psihologie personajelor, tema iubirii și crizei identitare"
+    },
+    {
+      "text1": "Eu nu strivesc corola de minuni a lumii",
+      "text2": "Izvorul nopții",
+      "scor": 0.85,
+      "motiv": "Același autor, poetică expresionistă, mister și metafore revelatorii"
+    },
+    {
+      "text1": "Eu nu strivesc corola de minuni a lumii",
+      "text2": "Pădure seculară",
+      "scor": 0.78,
+      "motiv": "Același autor, imaginar natural și cosmic, stare de contemplație"
+    },
+    {
+      "text1": "Nunta Zamfirei",
+      "text2": "Doina",
+      "scor": 0.66,
+      "motiv": "Poezie cu tematică folclorică și rurală, vers muzical, atmosferă populară"
+    },
+    {
+      "text1": "Doina",
+      "text2": "Pe lângă plopii fără soț",
+      "scor": 0.71,
+      "motiv": "Poezie lirică romantică, elegie, dor și melancolie"
+    },
+    {
+      "text1": "Luceafărul",
+      "text2": "Rugăciunea unui dac",
+      "scor": 0.76,
+      "motiv": "Același autor, tema morții și nemuririi, elemente cosmice și mitologice"
+    },
+    {
+      "text1": "Scrisoarea I",
+      "text2": "Glossă",
+      "scor": 0.73,
+      "motiv": "Același autor, filosofie stoică și pesimistă, înțelepciunea detașării"
+    },
+    {
+      "text1": "Hanu Ancuței",
+      "text2": "Baltagul",
+      "scor": 0.56,
+      "motiv": "Același autor, spațiu moldovenesc, atmosferă arhaică, personaje tipice"
+    },
+    {
+      "text1": "Baltagul",
+      "text2": "Ion",
+      "scor": 0.48,
+      "motiv": "Romane despre lumea rurală românească, dar structuri narative diferite"
+    },
+    {
+      "text1": "Ultima noapte de dragoste, întâia noapte de război",
+      "text2": "Pădurea spânzuraților",
+      "scor": 0.81,
+      "motiv": "Romane de război și criză identitară, perspectivă subiectivă, dileme morale"
+    },
+    {
+      "text1": "Floare Albastră",
+      "text2": "Lacul",
+      "scor": 0.89,
+      "motiv": "Același autor, tema iubirii și naturii, muzicalitate versului, imaginar acvatic"
+    },
+    {
+      "text1": "Lacul",
+      "text2": "Dorința",
+      "scor": 0.84,
+      "motiv": "Același autor, lirism romantic, natura ca spațiu al iubirii ideale"
+    },
+    {
+      "text1": "Moara cu noroc",
+      "text2": "Pădureanca",
+      "scor": 0.71,
+      "motiv": "Același autor, nuvele realiste, conflicte morale, psihologie a personajelor"
+    },
+    {
+      "text1": "Amintiri din copilărie",
+      "text2": "Dumbrava minunată",
+      "scor": 0.55,
+      "motiv": "Proze dedicate lumii copilăriei, imaginar rural românesc, ton nostalgic"
+    },
+    {
+      "text1": "Enigma Otiliei",
+      "text2": "Mara",
+      "scor": 0.44,
+      "motiv": "Romane realiste, teme sociale, dar epoci și medii diferite"
     }
   ]
 }
