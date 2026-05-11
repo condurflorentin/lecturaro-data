@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<autori versiune="2.0" ultima_actualizare="2024-03-15">
+<autori versiune="3.0" ultima_actualizare="2026-05-11">
 
     <autor id="1">
         <nume>Mihai Eminescu</nume>
@@ -10,18 +10,18 @@
         <perioada>1850-1889</perioada>
         <curent>Romantism</curent>
         <opere_reprezentative>
-            <opera>Luceafărul</opera>
-            <opera>Scrisoarea I</opera>
-            <opera>Floare Albastră</opera>
-            <opera>Odă (în metru antic)</opera>
-            <opera>Glossă</opera>
-            <opera>Rugăciunea unui dac</opera>
-            <opera>Lacul</opera>
-            <opera>Dorința</opera>
-            <opera>Pe lângă plopii fără soț</opera>
+            <opera id="eminescu_luceafarul" categorie="Poezie" tip="poem">Luceafărul</opera>
+            <opera id="eminescu_scrisoarea_i" categorie="Poezie" tip="poem filosofic">Scrisoarea I</opera>
+            <opera id="eminescu_floare_albastra" categorie="Poezie" tip="poem">Floare Albastră</opera>
+            <opera id="eminescu_oda" categorie="Poezie" tip="poem">Odă (în metru antic)</opera>
+            <opera id="eminescu_glossa" categorie="Poezie" tip="poem">Glossă</opera>
+            <opera id="eminescu_rugaciunea" categorie="Poezie" tip="poem">Rugăciunea unui dac</opera>
+            <opera id="eminescu_lacul" categorie="Poezie" tip="poem">Lacul</opera>
+            <opera id="eminescu_dorinta" categorie="Poezie" tip="poem">Dorința</opera>
+            <opera id="eminescu_plopii" categorie="Poezie" tip="poem">Pe lângă plopii fără soț</opera>
         </opere_reprezentative>
-        <bio>Mihai Eminescu este considerat cel mai mare poet național al României, supranumit Luceafărul poeziei românești. Născut la Ipotești, lângă Botoșani, a studiat la Viena și Berlin. A lucrat ca director al Bibliotecii Centrale din Iași și redactor la ziarul Timpul. Opera sa îmbină romantismul european cu filozofia lui Schopenhauer și elemente din mitologia și folclorul românesc. A fost prieten apropiat cu Ion Creangă.</bio>
-        <influente>Schopenhauer, Kant, folclor românesc, romantism german</influente>
+        <bio>Poetul canonic al romantismului românesc, asociat cu lirica iubirii, a naturii și a marilor reflecții filosofice.</bio>
+        <influente>Schopenhauer, Kant, romantism german, folclor românesc</influente>
         <teme_principale>iubire, natură, timp, geniu, condiție umană, mit, cosmogonie</teme_principale>
     </autor>
 
@@ -34,16 +34,16 @@
         <perioada>1895-1961</perioada>
         <curent>Modernism expresionist</curent>
         <opere_reprezentative>
-            <opera>Eu nu strivesc corola de minuni a lumii</opera>
-            <opera>Izvorul nopții</opera>
-            <opera>Pădure seculară</opera>
-            <opera>Meșterul Manole (dramă)</opera>
-            <opera>Trilogia cunoașterii</opera>
-            <opera>Spațiul mioritic</opera>
+            <opera id="blaga_corola" categorie="Poezie" tip="poem">Eu nu strivesc corola de minuni a lumii</opera>
+            <opera id="blaga_izvorul_noptii" categorie="Poezie" tip="poem">Izvorul nopții</opera>
+            <opera id="blaga_padure_seculara" categorie="Poezie" tip="poem">Pădure seculară</opera>
+            <opera id="blaga_mesterul_manole" categorie="Altele" tip="dramă">Meșterul Manole</opera>
+            <opera id="blaga_trilogia_cunoasterii" categorie="Eseu" tip="filosofie">Trilogia cunoașterii</opera>
+            <opera id="blaga_spatiul_mioritic" categorie="Eseu" tip="filosofie">Spațiul mioritic</opera>
         </opere_reprezentative>
-        <bio>Lucian Blaga a fost poet, dramaturg, filosof și diplomat român. Născut la Lancrăm, județul Alba, a studiat teologia la Sibiu și filosofia la Viena. A elaborat o filosofie originală centrată pe conceptul de spațiu mioritic și matricea stilistică. A fost propus pentru Premiul Nobel pentru Literatură în 1956. A lucrat ca diplomat la Varșovia, Praga, Berna și Lisabona. Opera sa poetică este profund marcată de expresionism și de meditația asupra misterului existenței.</bio>
+        <bio>Poet, filosof și dramaturg, reprezentant major al modernismului românesc.</bio>
         <influente>Expresionism german, filosofie occidentală, mitologie românească</influente>
-        <teme_principale>mister, cunoaștere, natură, metafizică, identitate națională, mit</teme_principale>
+        <teme_principale>mister, cunoaștere, natură, metafizică, mit</teme_principale>
     </autor>
 
     <autor id="3">
@@ -55,16 +55,16 @@
         <perioada>1837-1889</perioada>
         <curent>Realism popular</curent>
         <opere_reprezentative>
-            <opera>Amintiri din copilărie</opera>
-            <opera>Povestea lui Harap-Alb</opera>
-            <opera>Povestea porcului</opera>
-            <opera>Ivan Turbincă</opera>
-            <opera>Soacra cu trei nurori</opera>
-            <opera>Capra cu trei iezi</opera>
+            <opera id="creanga_amintiri" categorie="Proză" tip="roman autobiografic">Amintiri din copilărie</opera>
+            <opera id="creanga_harap_alb" categorie="Proză" tip="basm cult">Povestea lui Harap-Alb</opera>
+            <opera id="creanga_povestea_porcului" categorie="Proză" tip="poveste">Povestea porcului</opera>
+            <opera id="creanga_ivan_turbinca" categorie="Proză" tip="poveste">Ivan Turbincă</opera>
+            <opera id="creanga_soacra" categorie="Proză" tip="poveste">Soacra cu trei nurori</opera>
+            <opera id="creanga_capra" categorie="Proză" tip="poveste">Capra cu trei iezi</opera>
         </opere_reprezentative>
-        <bio>Ion Creangă este unul dintre cei mai importanți scriitori clasici români, celebru pentru umorul și oralitatea scrierilor sale. Originar din Humulești, Neamț, a urmat seminarul teologic și a activat ca diacon și institutor în Iași. Prieten apropiat cu Mihai Eminescu, a frecventat Junimea. Amintirile din copilărie reprezintă o capodoperă a literaturii române prin evocarea autentică a lumii rurale moldovenești și prin vitalitatea limbajului popular.</bio>
+        <bio>Scriitor clasic cunoscut pentru oralitate, umor și evocarea lumii copilăriei și a satului moldovenesc.</bio>
         <influente>Folclor românesc, oralitate populară, Junimea</influente>
-        <teme_principale>copilărie, viață rurală, umor, folclor, limbaj popular, familie</teme_principale>
+        <teme_principale>copilărie, viață rurală, umor, folclor, familie</teme_principale>
     </autor>
 
     <autor id="4">
@@ -76,16 +76,16 @@
         <perioada>1866-1918</perioada>
         <curent>Sămănătorism</curent>
         <opere_reprezentative>
-            <opera>Nunta Zamfirei</opera>
-            <opera>Doina</opera>
-            <opera>Mama</opera>
-            <opera>Balade și idile</opera>
-            <opera>Fire de tort</opera>
-            <opera>Moartea lui Fulger</opera>
+            <opera id="cosbuc_nunta_zamfirei" categorie="Poezie" tip="baladă">Nunta Zamfirei</opera>
+            <opera id="cosbuc_doina" categorie="Poezie" tip="poem">Doina</opera>
+            <opera id="cosbuc_mama" categorie="Poezie" tip="poem">Mama</opera>
+            <opera id="cosbuc_balade_si_idile" categorie="Poezie" tip="volum">Balade și idile</opera>
+            <opera id="cosbuc_fire_de_tort" categorie="Poezie" tip="volum">Fire de tort</opera>
+            <opera id="cosbuc_moartea_lui_fulger" categorie="Poezie" tip="baladă">Moartea lui Fulger</opera>
         </opere_reprezentative>
-        <bio>George Coșbuc a fost un poet ardelean care a celebrat viața rurală, obiceiurile populare și sentimentele simple ale oamenilor de la țară. Născut în Bistrița-Năsăud, a studiat la Cluj și a colaborat cu revista Tribuna. A tradus Divina Comedie a lui Dante în română, o realizare monumentală. Versurile sale se disting prin muzicalitate, vigoare și autenticitate populară.</bio>
-        <influente>Folclor ardelean, lirică populară, Dante Alighieri</influente>
-        <teme_principale>viață rurală, natura, iubire, obiceiuri populare, patriotism</teme_principale>
+        <bio>Poet al lumii rurale, al folclorului și al expresiei tradiționale românești.</bio>
+        <influente>Folclor ardelean, lirică populară, Dante</influente>
+        <teme_principale>viață rurală, natură, iubire, obiceiuri populare</teme_principale>
     </autor>
 
     <autor id="5">
@@ -97,16 +97,16 @@
         <perioada>1848-1925</perioada>
         <curent>Realism</curent>
         <opere_reprezentative>
-            <opera>Moara cu noroc</opera>
-            <opera>Mara</opera>
-            <opera>Pădureanca</opera>
-            <opera>Budulea Taichii</opera>
-            <opera>Popa Tanda</opera>
-            <opera>Gura satului</opera>
+            <opera id="slavici_moara_cu_noroc" categorie="Proză" tip="nuvelă">Moara cu noroc</opera>
+            <opera id="slavici_mara" categorie="Proză" tip="roman">Mara</opera>
+            <opera id="slavici_padureanca" categorie="Proză" tip="nuvelă">Pădureanca</opera>
+            <opera id="slavici_budulea" categorie="Proză" tip="nuvelă">Budulea Taichii</opera>
+            <opera id="slavici_popa_tanda" categorie="Proză" tip="nuvelă">Popa Tanda</opera>
+            <opera id="slavici_gura_satului" categorie="Proză" tip="nuvelă">Gura satului</opera>
         </opere_reprezentative>
-        <bio>Ioan Slavici este unul dintre întemeietorii prozei realiste românești. Originar din Șiria, Arad, a studiat la Pesta și Viena. A colaborat cu Titu Maiorescu și a frecventat cercul Junimii. Nuvelele și romanele sale explorează psihologia personajelor, conflictele morale și viața comunităților românești din Transilvania. Moara cu noroc este considerată una dintre cele mai bune nuvele din literatura română.</bio>
-        <influente>Realism european, Junimea, viața transilvăneană</influente>
-        <teme_principale>morală, psihologie, familie, avere, comunitate rurală, conflict social</teme_principale>
+        <bio>Prozator realist interesat de psihologia personajelor și de conflictul moral.</bio>
+        <influente>Junimea, realism european, viața transilvăneană</influente>
+        <teme_principale>morală, psihologie, familie, comunitate rurală</teme_principale>
     </autor>
 
     <autor id="6">
@@ -118,15 +118,15 @@
         <perioada>1885-1944</perioada>
         <curent>Realism obiectiv</curent>
         <opere_reprezentative>
-            <opera>Ion</opera>
-            <opera>Pădurea spânzuraților</opera>
-            <opera>Ciuleandra</opera>
-            <opera>Răscoala</opera>
-            <opera>Adam și Eva</opera>
+            <opera id="rebreanu_ion" categorie="Proză" tip="roman">Ion</opera>
+            <opera id="rebreanu_padurea_spanzuratilor" categorie="Proză" tip="roman">Pădurea spânzuraților</opera>
+            <opera id="rebreanu_ciuleandra" categorie="Proză" tip="roman">Ciuleandra</opera>
+            <opera id="rebreanu_rascoala" categorie="Proză" tip="roman">Răscoala</opera>
+            <opera id="rebreanu_adam_si_eva" categorie="Proză" tip="roman">Adam și Eva</opera>
         </opere_reprezentative>
-        <bio>Liviu Rebreanu este autorul primului roman românesc modern. Născut la Târlișua, Bistrița-Năsăud, a servit ca ofițer în armata austro-ungară înainte de Primul Război Mondial. Romanul Ion (1920) este considerat primul roman realist obiectiv din literatura română și descrie cu forță și precizie viața țăranilor din Transilvania. Pădurea spânzuraților explorează drama unui ofițer român nevoit să lupte împotriva fraților săi.</bio>
-        <influente>Realism francez, Tolstoi, Dostoievski, experiența personală de război</influente>
-        <teme_principale>pământ, țăran, război, identitate națională, destin, psihologie</teme_principale>
+        <bio>Autor esențial al romanului realist românesc, preocupat de destin, conflict social și conștiință.</bio>
+        <influente>Tolstoi, Dostoievski, realism francez</influente>
+        <teme_principale>pământ, țăran, război, identitate, psihologie</teme_principale>
     </autor>
 
     <autor id="7">
@@ -138,16 +138,16 @@
         <perioada>1880-1961</perioada>
         <curent>Realism mitic</curent>
         <opere_reprezentative>
-            <opera>Hanu Ancuței</opera>
-            <opera>Baltagul</opera>
-            <opera>Frații Jderi</opera>
-            <opera>Neamul Șoimăreștilor</opera>
-            <opera>Zodia Cancerului</opera>
-            <opera>Creanga de aur</opera>
+            <opera id="sadoveanu_hanu_ancutei" categorie="Proză" tip="proză scurtă">Hanu Ancuței</opera>
+            <opera id="sadoveanu_baltagul" categorie="Proză" tip="roman">Baltagul</opera>
+            <opera id="sadoveanu_fratia_jderi" categorie="Proză" tip="roman">Frații Jderi</opera>
+            <opera id="sadoveanu_neamul_soimarestilor" categorie="Proză" tip="roman">Neamul Șoimăreștilor</opera>
+            <opera id="sadoveanu_zodia_cancerului" categorie="Proză" tip="roman">Zodia Cancerului</opera>
+            <opera id="sadoveanu_creanga_de_aur" categorie="Proză" tip="roman">Creanga de aur</opera>
         </opere_reprezentative>
-        <bio>Mihail Sadoveanu este unul dintre cei mai prolifici și mai importanți scriitori români, cu o operă vastă ce cuprinde peste 120 de volume. Originar din Pașcani, Moldova, a evocat cu măiestrie peisajul și tradițiile moldovenești. Proza sa se remarcă prin atmosfera arhaică, ritmul contemplativ și bogăția limbii literare. Baltagul este o capodoperă care îmbină misterul polițist cu mitologia populară românească.</bio>
-        <influente>Folclor moldovenesc, mituri populare, naturi moldavă</influente>
-        <teme_principale>natură moldovenească, istorie, mit, tradiție, destin, trecut arhaic</teme_principale>
+        <bio>Prozator al Moldovei arhaice, al naturii și al marilor narațiuni istorice.</bio>
+        <influente>Folclor moldovenesc, mituri populare, natură</influente>
+        <teme_principale>natură, istorie, mit, tradiție, destin</teme_principale>
     </autor>
 
     <autor id="8">
@@ -159,15 +159,15 @@
         <perioada>1899-1965</perioada>
         <curent>Realism balzacian</curent>
         <opere_reprezentative>
-            <opera>Enigma Otiliei</opera>
-            <opera>Viața lui Mihai Eminescu</opera>
-            <opera>Istoria literaturii române</opera>
-            <opera>Bietul Ioanide</opera>
-            <opera>Scrinul negru</opera>
+            <opera id="calinescu_enigma_otiliei" categorie="Proză" tip="roman">Enigma Otiliei</opera>
+            <opera id="calinescu_viata_lui_eminescu" categorie="Eseu" tip="biografie critică">Viața lui Mihai Eminescu</opera>
+            <opera id="calinescu_istoria_literaturii" categorie="Eseu" tip="istorie literară">Istoria literaturii române</opera>
+            <opera id="calinescu_bietul_ioanide" categorie="Proză" tip="roman">Bietul Ioanide</opera>
+            <opera id="calinescu_scrinul_negru" categorie="Proză" tip="roman">Scrinul negru</opera>
         </opere_reprezentative>
-        <bio>George Călinescu a fost critic literar, romancier și poet român, considerat cel mai important critic literar al secolului XX românesc. Lucrarea sa monumentală Istoria literaturii române de la origini până în prezent (1941) rămâne o referință esențială. Romanul Enigma Otiliei (1938) este o capodoperă a realismului balzacian în literatura română, descriind cu fineță Bucureștiul interbelic.</bio>
-        <influente>Balzac, Dostoievski, critica literară europeană</influente>
-        <teme_principale>societate burgheză, avere, iubire, caracterologie, București interbelic</teme_principale>
+        <bio>Critic literar, romancier și autor al uneia dintre cele mai importante istorii literare românești.</bio>
+        <influente>Balzac, Dostoievski, critica europeană</influente>
+        <teme_principale>societate burgheză, avere, iubire, caracterologie</teme_principale>
     </autor>
 
     <autor id="9">
@@ -179,14 +179,14 @@
         <perioada>1894-1957</perioada>
         <curent>Modernism proustian</curent>
         <opere_reprezentative>
-            <opera>Ultima noapte de dragoste, întâia noapte de război</opera>
-            <opera>Patul lui Procust</opera>
-            <opera>Suflete tari (dramă)</opera>
-            <opera>Act venețian (dramă)</opera>
+            <opera id="camil_ultima_noapte" categorie="Proză" tip="roman">Ultima noapte de dragoste, întâia noapte de război</opera>
+            <opera id="camil_patul_lui_procust" categorie="Proză" tip="roman">Patul lui Procust</opera>
+            <opera id="camil_suflete_tari" categorie="Altele" tip="dramă">Suflete tari</opera>
+            <opera id="camil_act_venetian" categorie="Altele" tip="dramă">Act venețian</opera>
         </opere_reprezentative>
-        <bio>Camil Petrescu a fost romancier, dramaturg și filosof român. Participant la Primul Război Mondial, a valorificat experiența de front în romanele sale. A introdus în proza românească tehnica narațiunii la persoana întâi și analiza psihologică profundă, influențat de Proust și de filosofia lui Descartes. Pledoaria sa pentru autenticitate în literatură l-a consacrat drept un inovator al romanului românesc interbelic.</bio>
-        <influente>Marcel Proust, Descartes, experiența de război</influente>
-        <teme_principale>iubire, război, gelozie, autenticitate, conștiință, criză identitară</teme_principale>
+        <bio>Romancier și dramaturg modernist, concentrat pe autenticitate și analiza conștiinței.</bio>
+        <influente>Proust, Descartes, experiența de război</influente>
+        <teme_principale>iubire, război, gelozie, autenticitate, criză identitară</teme_principale>
     </autor>
 
     <autor id="10">
@@ -198,15 +198,15 @@
         <perioada>1922-1980</perioada>
         <curent>Realism social</curent>
         <opere_reprezentative>
-            <opera>Moromeții (vol. I și II)</opera>
-            <opera>Cel mai iubit dintre pământeni</opera>
-            <opera>Intrusul</opera>
-            <opera>Risipitorii</opera>
-            <opera>Viața ca o pradă</opera>
+            <opera id="preda_morometii" categorie="Proză" tip="roman">Moromeții</opera>
+            <opera id="preda_cel_mai_iubit" categorie="Proză" tip="roman">Cel mai iubit dintre pământeni</opera>
+            <opera id="preda_intrusul" categorie="Proză" tip="roman">Intrusul</opera>
+            <opera id="preda_risipitorii" categorie="Proză" tip="roman">Risipitorii</opera>
+            <opera id="preda_viata_ca_o_prada" categorie="Eseu" tip="memorialistică">Viața ca o pradă</opera>
         </opere_reprezentative>
-        <bio>Marin Preda este unul dintre cei mai importanți prozatori români ai secolului XX. Fiu de țăran din câmpia muntenă, a surprins cu autenticitate drama colectivizării și a lumii rurale în tranziție. Moromeții este considerat un roman esențial al literaturii române, iar Ilie Moromete — unul dintre cele mai complexe personaje ale romanului românesc. Cel mai iubit dintre pământeni este un roman amplu despre rezistența individului în fața regimului totalitar.</bio>
-        <influente>Realism rus, experiența rurală, regimul comunist</influente>
-        <teme_principale>țăran, colectivizare, familie, libertate, rezistență, destin</teme_principale>
+        <bio>Prozator major al secolului XX, preocupat de lumea rurală și de raportul individului cu istoria.</bio>
+        <influente>Realism rus, experiența rurală, epoca postbelică</influente>
+        <teme_principale>țăran, familie, colectivizare, libertate, destin</teme_principale>
     </autor>
 
     <autor id="11">
@@ -218,15 +218,15 @@
         <perioada>1880-1967</perioada>
         <curent>Modernism</curent>
         <opere_reprezentative>
-            <opera>Testament</opera>
-            <opera>Flori de mucigai</opera>
-            <opera>Psalmii</opera>
-            <opera>Cuvinte potrivite</opera>
-            <opera>Cărticica de seară</opera>
+            <opera id="arghezi_testament" categorie="Poezie" tip="poem">Testament</opera>
+            <opera id="arghezi_flori_de_mucigai" categorie="Poezie" tip="volum">Flori de mucigai</opera>
+            <opera id="arghezi_psalmii" categorie="Poezie" tip="poeme">Psalmii</opera>
+            <opera id="arghezi_cuvinte_potrivite" categorie="Poezie" tip="volum">Cuvinte potrivite</opera>
+            <opera id="arghezi_carticica" categorie="Poezie" tip="volum">Cărticica de seară</opera>
         </opere_reprezentative>
-        <bio>Tudor Arghezi este unul dintre cei mai originali poeți români, cunoscut pentru estetica urâtului și pentru revoluționarea limbajului poetic. A îmbinat sacrul cu profanul, puritatea cu brutalitatea, într-o sinteză poetică unică. A lucrat ca monah, ziarist și publicist. Psalmii săi explorează relația tensionată cu divinitatea, iar Flori de mucigai surprinde lumea mahalalei și a închisorii.</bio>
+        <bio>Poet modernist al expresiei dense și al tensiunii dintre sacru și profan.</bio>
         <influente>Baudelaire, expresionism, tradiție religioasă</influente>
-        <teme_principale>sacru și profan, estetică a urâtului, divinitate, limbaj, condiție umană</teme_principale>
+        <teme_principale>divinitate, limbaj, estetică a urâtului, condiție umană</teme_principale>
     </autor>
 
     <autor id="12">
@@ -238,14 +238,14 @@
         <perioada>1895-1961</perioada>
         <curent>Ermetism</curent>
         <opere_reprezentative>
-            <opera>Riga Crypto și lapona Enigel</opera>
-            <opera>Joc secund</opera>
-            <opera>Uvedenrode</opera>
-            <opera>Din ceas, dedus</opera>
+            <opera id="barbu_riga_crypto" categorie="Poezie" tip="baladă">Riga Crypto și lapona Enigel</opera>
+            <opera id="barbu_joc_secund" categorie="Poezie" tip="volum">Joc secund</opera>
+            <opera id="barbu_uvedenrode" categorie="Poezie" tip="poem">Uvedenrode</opera>
+            <opera id="barbu_din_ceas_dedus" categorie="Poezie" tip="poem">Din ceas, dedus</opera>
         </opere_reprezentative>
-        <bio>Ion Barbu, pe numele real Dan Barbilian, a fost poet și matematician român. A combinat în mod unic vocația matematică cu cea poetică, creând o poezie ermetică, densă și geometrică. Volumul Joc secund (1930) marchează apogeul ermetismului în poezia română. A fost profesor de matematică la Universitatea din București și a adus contribuții importante în geometrie.</bio>
-        <influente>Mallarmé, matematică, ermetism, poezie simbolistă</influente>
-        <teme_principale>abstractizare, joc, geometrie poetică, mit, mister lingvistic</teme_principale>
+        <bio>Poet ermetic și matematician, cunoscut pentru abstractizare și densitate simbolică.</bio>
+        <influente>Mallarmé, matematică, simbolism, ermetism</influente>
+        <teme_principale>abstractizare, joc, geometrie poetică, mister</teme_principale>
     </autor>
 
 </autori>
