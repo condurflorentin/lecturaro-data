@@ -1,6 +1,6 @@
 {
-  "versiune": "3.0",
-  "ultima_actualizare": "2026-05-11",
+  "versiune": "3.1",
+  "ultima_actualizare": "2026-05-18",
   "descriere": "Scoruri de similaritate între opere canonice din literatura română. Fiecare pereche este definită în interiorul aceluiași autor pentru a susține recomandări coerente în aplicație.",
   "perechi": [
     {
@@ -16,67 +16,6 @@
       "motiv": "Teme romantice, imaginar cosmic și lirism eminescian recognoscibil."
     },
     {
-      "autor_id": 1,
-      "autor": "Mihai Eminescu",
-      "opera1_id": "eminescu_luceafarul",
-      "opera2_id": "eminescu_scrisoarea_i",
-      "text1": "Luceafărul",
-      "text2": "Scrisoarea I",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.88,
-      "motiv": "Cosmogonie, tema geniului și reflecție filosofică."
-    },
-    {
-      "autor_id": 1,
-      "autor": "Mihai Eminescu",
-      "opera1_id": "eminescu_luceafarul",
-      "opera2_id": "eminescu_oda",
-      "text1": "Luceafărul",
-      "text2": "Odă (în metru antic)",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.82,
-      "motiv": "Ton grav, depășirea condiției umane și introspecție."
-    },
-    {
-      "autor_id": 1,
-      "autor": "Mihai Eminescu",
-      "opera1_id": "eminescu_floare_albastra",
-      "opera2_id": "eminescu_lacul",
-      "text1": "Floare Albastră",
-      "text2": "Lacul",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.89,
-      "motiv": "Iubire, natură și muzicalitate a versului."
-    },
-    {
-      "autor_id": 1,
-      "autor": "Mihai Eminescu",
-      "opera1_id": "eminescu_lacul",
-      "opera2_id": "eminescu_dorinta",
-      "text1": "Lacul",
-      "text2": "Dorința",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.84,
-      "motiv": "Cadru natural erotic și imaginar liric apropiat."
-    },
-    {
-      "autor_id": 1,
-      "autor": "Mihai Eminescu",
-      "opera1_id": "eminescu_scrisoarea_i",
-      "opera2_id": "eminescu_glossa",
-      "text1": "Scrisoarea I",
-      "text2": "Glossă",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.73,
-      "motiv": "Filosofie a timpului și viziune reflexivă."
-    },
-
-    {
       "autor_id": 2,
       "autor": "Lucian Blaga",
       "opera1_id": "blaga_corola",
@@ -88,31 +27,6 @@
       "scor": 0.85,
       "motiv": "Poetică expresionistă, mister și metafore revelatoare."
     },
-    {
-      "autor_id": 2,
-      "autor": "Lucian Blaga",
-      "opera1_id": "blaga_corola",
-      "opera2_id": "blaga_padure_seculara",
-      "text1": "Eu nu strivesc corola de minuni a lumii",
-      "text2": "Pădure seculară",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.78,
-      "motiv": "Natura ca spațiu al misterului și al cunoașterii."
-    },
-    {
-      "autor_id": 2,
-      "autor": "Lucian Blaga",
-      "opera1_id": "blaga_mesterul_manole",
-      "opera2_id": "blaga_trilogia_cunoasterii",
-      "text1": "Meșterul Manole",
-      "text2": "Trilogia cunoașterii",
-      "categorie1": "Altele",
-      "categorie2": "Eseu",
-      "scor": 0.64,
-      "motiv": "Mit, cunoaștere și reflecție asupra creației."
-    },
-
     {
       "autor_id": 3,
       "autor": "Ion Creangă",
@@ -126,31 +40,6 @@
       "motiv": "Oralitate, umor și registru popular moldovenesc."
     },
     {
-      "autor_id": 3,
-      "autor": "Ion Creangă",
-      "opera1_id": "creanga_harap_alb",
-      "opera2_id": "creanga_ivan_turbinca",
-      "text1": "Povestea lui Harap-Alb",
-      "text2": "Ivan Turbincă",
-      "categorie1": "Proză",
-      "categorie2": "Proză",
-      "scor": 0.69,
-      "motiv": "Fantastic popular, umor și personaje memorabile."
-    },
-    {
-      "autor_id": 3,
-      "autor": "Ion Creangă",
-      "opera1_id": "creanga_capra",
-      "opera2_id": "creanga_soacra",
-      "text1": "Capra cu trei iezi",
-      "text2": "Soacra cu trei nurori",
-      "categorie1": "Proză",
-      "categorie2": "Proză",
-      "scor": 0.62,
-      "motiv": "Structuri narative moralizatoare și oralitate accentuată."
-    },
-
-    {
       "autor_id": 4,
       "autor": "George Coșbuc",
       "opera1_id": "cosbuc_nunta_zamfirei",
@@ -162,19 +51,6 @@
       "scor": 0.66,
       "motiv": "Folclor, muzicalitate și atmosferă rurală."
     },
-    {
-      "autor_id": 4,
-      "autor": "George Coșbuc",
-      "opera1_id": "cosbuc_nunta_zamfirei",
-      "opera2_id": "cosbuc_balade_si_idile",
-      "text1": "Nunta Zamfirei",
-      "text2": "Balade și idile",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.71,
-      "motiv": "Cadru rural și poetică tradițională comună."
-    },
-
     {
       "autor_id": 5,
       "autor": "Ioan Slavici",
@@ -188,31 +64,6 @@
       "motiv": "Realism, psihologie și conflict moral."
     },
     {
-      "autor_id": 5,
-      "autor": "Ioan Slavici",
-      "opera1_id": "slavici_moara_cu_noroc",
-      "opera2_id": "slavici_padureanca",
-      "text1": "Moara cu noroc",
-      "text2": "Pădureanca",
-      "categorie1": "Proză",
-      "categorie2": "Proză",
-      "scor": 0.71,
-      "motiv": "Personaje tensionate și mediu social realist."
-    },
-    {
-      "autor_id": 5,
-      "autor": "Ioan Slavici",
-      "opera1_id": "slavici_budulea",
-      "opera2_id": "slavici_popa_tanda",
-      "text1": "Budulea Taichii",
-      "text2": "Popa Tanda",
-      "categorie1": "Proză",
-      "categorie2": "Proză",
-      "scor": 0.63,
-      "motiv": "Tipologii morale și realism de observație."
-    },
-
-    {
       "autor_id": 6,
       "autor": "Liviu Rebreanu",
       "opera1_id": "rebreanu_ion",
@@ -224,31 +75,6 @@
       "scor": 0.76,
       "motiv": "Țăranul român, raportul cu pământul și conflictul social."
     },
-    {
-      "autor_id": 6,
-      "autor": "Liviu Rebreanu",
-      "opera1_id": "rebreanu_ion",
-      "opera2_id": "rebreanu_ciuleandra",
-      "text1": "Ion",
-      "text2": "Ciuleandra",
-      "categorie1": "Proză",
-      "categorie2": "Proză",
-      "scor": 0.58,
-      "motiv": "Aceeași construcție realistă, dar centre tematice diferite."
-    },
-    {
-      "autor_id": 6,
-      "autor": "Liviu Rebreanu",
-      "opera1_id": "rebreanu_padurea_spanzuratilor",
-      "opera2_id": "rebreanu_adam_si_eva",
-      "text1": "Pădurea spânzuraților",
-      "text2": "Adam și Eva",
-      "categorie1": "Proză",
-      "categorie2": "Proză",
-      "scor": 0.57,
-      "motiv": "Viziune gravă asupra destinului și conștiinței."
-    },
-
     {
       "autor_id": 7,
       "autor": "Mihail Sadoveanu",
@@ -262,19 +88,6 @@
       "motiv": "Atmosferă arhaică și spațiu moldovenesc recognoscibil."
     },
     {
-      "autor_id": 7,
-      "autor": "Mihail Sadoveanu",
-      "opera1_id": "sadoveanu_baltagul",
-      "opera2_id": "sadoveanu_fratia_jderi",
-      "text1": "Baltagul",
-      "text2": "Frații Jderi",
-      "categorie1": "Proză",
-      "categorie2": "Proză",
-      "scor": 0.61,
-      "motiv": "Proză de atmosferă și vocabular arhaizant."
-    },
-
-    {
       "autor_id": 8,
       "autor": "George Călinescu",
       "opera1_id": "calinescu_enigma_otiliei",
@@ -286,19 +99,6 @@
       "scor": 0.68,
       "motiv": "Proză urbană și observație socială de tip balzacian."
     },
-    {
-      "autor_id": 8,
-      "autor": "George Călinescu",
-      "opera1_id": "calinescu_viata_lui_eminescu",
-      "opera2_id": "calinescu_istoria_literaturii",
-      "text1": "Viața lui Mihai Eminescu",
-      "text2": "Istoria literaturii române",
-      "categorie1": "Eseu",
-      "categorie2": "Eseu",
-      "scor": 0.83,
-      "motiv": "Discurs critic și biografic cu aceeași voce autorală."
-    },
-
     {
       "autor_id": 9,
       "autor": "Camil Petrescu",
@@ -312,19 +112,6 @@
       "motiv": "Analiză psihologică, autenticitate și perspectivă subiectivă."
     },
     {
-      "autor_id": 9,
-      "autor": "Camil Petrescu",
-      "opera1_id": "camil_suflete_tari",
-      "opera2_id": "camil_act_venetian",
-      "text1": "Suflete tari",
-      "text2": "Act venețian",
-      "categorie1": "Altele",
-      "categorie2": "Altele",
-      "scor": 0.77,
-      "motiv": "Dramaturgie modernă și conflict interior puternic."
-    },
-
-    {
       "autor_id": 10,
       "autor": "Marin Preda",
       "opera1_id": "preda_morometii",
@@ -335,68 +122,6 @@
       "categorie2": "Proză",
       "scor": 0.73,
       "motiv": "Conștiința individului și raportarea la istorie."
-    },
-    {
-      "autor_id": 10,
-      "autor": "Marin Preda",
-      "opera1_id": "preda_morometii",
-      "opera2_id": "preda_viata_ca_o_prada",
-      "text1": "Moromeții",
-      "text2": "Viața ca o pradă",
-      "categorie1": "Proză",
-      "categorie2": "Eseu",
-      "scor": 0.64,
-      "motiv": "Aceleași obsesiuni tematice, registre diferite."
-    },
-
-    {
-      "autor_id": 11,
-      "autor": "Tudor Arghezi",
-      "opera1_id": "arghezi_testament",
-      "opera2_id": "arghezi_flori_de_mucigai",
-      "text1": "Testament",
-      "text2": "Flori de mucigai",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.79,
-      "motiv": "Estetică modernistă, lexic dens și tensiune expresivă."
-    },
-    {
-      "autor_id": 11,
-      "autor": "Tudor Arghezi",
-      "opera1_id": "arghezi_psalmii",
-      "opera2_id": "arghezi_cuvinte_potrivite",
-      "text1": "Psalmii",
-      "text2": "Cuvinte potrivite",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.71,
-      "motiv": "Reflecție asupra limbajului și a relației cu sacrul."
-    },
-
-    {
-      "autor_id": 12,
-      "autor": "Ion Barbu",
-      "opera1_id": "barbu_riga_crypto",
-      "opera2_id": "barbu_joc_secund",
-      "text1": "Riga Crypto și lapona Enigel",
-      "text2": "Joc secund",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.82,
-      "motiv": "Ermetism, abstractizare și densitate simbolică."
-    },
-    {
-      "autor_id": 12,
-      "autor": "Ion Barbu",
-      "opera1_id": "barbu_joc_secund",
-      "opera2_id": "barbu_din_ceas_dedus",
-      "text1": "Joc secund",
-      "text2": "Din ceas, dedus",
-      "categorie1": "Poezie",
-      "categorie2": "Poezie",
-      "scor": 0.75,
-      "motiv": "Limbaj abstract și construcție intelectualizată."
     }
   ]
 }

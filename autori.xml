@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<autori versiune="3.0" ultima_actualizare="2026-05-11">
+<autori versiune="3.1" ultima_actualizare="2026-05-18">
 
     <autor id="1">
         <nume>Mihai Eminescu</nume>
@@ -11,14 +11,7 @@
         <curent>Romantism</curent>
         <opere_reprezentative>
             <opera id="eminescu_luceafarul" categorie="Poezie" tip="poem">Luceafărul</opera>
-            <opera id="eminescu_scrisoarea_i" categorie="Poezie" tip="poem filosofic">Scrisoarea I</opera>
             <opera id="eminescu_floare_albastra" categorie="Poezie" tip="poem">Floare Albastră</opera>
-            <opera id="eminescu_oda" categorie="Poezie" tip="poem">Odă (în metru antic)</opera>
-            <opera id="eminescu_glossa" categorie="Poezie" tip="poem">Glossă</opera>
-            <opera id="eminescu_rugaciunea" categorie="Poezie" tip="poem">Rugăciunea unui dac</opera>
-            <opera id="eminescu_lacul" categorie="Poezie" tip="poem">Lacul</opera>
-            <opera id="eminescu_dorinta" categorie="Poezie" tip="poem">Dorința</opera>
-            <opera id="eminescu_plopii" categorie="Poezie" tip="poem">Pe lângă plopii fără soț</opera>
         </opere_reprezentative>
         <bio>Poetul canonic al romantismului românesc, asociat cu lirica iubirii, a naturii și a marilor reflecții filosofice.</bio>
         <influente>Schopenhauer, Kant, romantism german, folclor românesc</influente>
@@ -36,10 +29,6 @@
         <opere_reprezentative>
             <opera id="blaga_corola" categorie="Poezie" tip="poem">Eu nu strivesc corola de minuni a lumii</opera>
             <opera id="blaga_izvorul_noptii" categorie="Poezie" tip="poem">Izvorul nopții</opera>
-            <opera id="blaga_padure_seculara" categorie="Poezie" tip="poem">Pădure seculară</opera>
-            <opera id="blaga_mesterul_manole" categorie="Altele" tip="dramă">Meșterul Manole</opera>
-            <opera id="blaga_trilogia_cunoasterii" categorie="Eseu" tip="filosofie">Trilogia cunoașterii</opera>
-            <opera id="blaga_spatiul_mioritic" categorie="Eseu" tip="filosofie">Spațiul mioritic</opera>
         </opere_reprezentative>
         <bio>Poet, filosof și dramaturg, reprezentant major al modernismului românesc.</bio>
         <influente>Expresionism german, filosofie occidentală, mitologie românească</influente>
@@ -57,10 +46,6 @@
         <opere_reprezentative>
             <opera id="creanga_amintiri" categorie="Proză" tip="roman autobiografic">Amintiri din copilărie</opera>
             <opera id="creanga_harap_alb" categorie="Proză" tip="basm cult">Povestea lui Harap-Alb</opera>
-            <opera id="creanga_povestea_porcului" categorie="Proză" tip="poveste">Povestea porcului</opera>
-            <opera id="creanga_ivan_turbinca" categorie="Proză" tip="poveste">Ivan Turbincă</opera>
-            <opera id="creanga_soacra" categorie="Proză" tip="poveste">Soacra cu trei nurori</opera>
-            <opera id="creanga_capra" categorie="Proză" tip="poveste">Capra cu trei iezi</opera>
         </opere_reprezentative>
         <bio>Scriitor clasic cunoscut pentru oralitate, umor și evocarea lumii copilăriei și a satului moldovenesc.</bio>
         <influente>Folclor românesc, oralitate populară, Junimea</influente>
@@ -78,10 +63,6 @@
         <opere_reprezentative>
             <opera id="cosbuc_nunta_zamfirei" categorie="Poezie" tip="baladă">Nunta Zamfirei</opera>
             <opera id="cosbuc_doina" categorie="Poezie" tip="poem">Doina</opera>
-            <opera id="cosbuc_mama" categorie="Poezie" tip="poem">Mama</opera>
-            <opera id="cosbuc_balade_si_idile" categorie="Poezie" tip="volum">Balade și idile</opera>
-            <opera id="cosbuc_fire_de_tort" categorie="Poezie" tip="volum">Fire de tort</opera>
-            <opera id="cosbuc_moartea_lui_fulger" categorie="Poezie" tip="baladă">Moartea lui Fulger</opera>
         </opere_reprezentative>
         <bio>Poet al lumii rurale, al folclorului și al expresiei tradiționale românești.</bio>
         <influente>Folclor ardelean, lirică populară, Dante</influente>
@@ -99,10 +80,6 @@
         <opere_reprezentative>
             <opera id="slavici_moara_cu_noroc" categorie="Proză" tip="nuvelă">Moara cu noroc</opera>
             <opera id="slavici_mara" categorie="Proză" tip="roman">Mara</opera>
-            <opera id="slavici_padureanca" categorie="Proză" tip="nuvelă">Pădureanca</opera>
-            <opera id="slavici_budulea" categorie="Proză" tip="nuvelă">Budulea Taichii</opera>
-            <opera id="slavici_popa_tanda" categorie="Proză" tip="nuvelă">Popa Tanda</opera>
-            <opera id="slavici_gura_satului" categorie="Proză" tip="nuvelă">Gura satului</opera>
         </opere_reprezentative>
         <bio>Prozator realist interesat de psihologia personajelor și de conflictul moral.</bio>
         <influente>Junimea, realism european, viața transilvăneană</influente>
@@ -119,10 +96,7 @@
         <curent>Realism obiectiv</curent>
         <opere_reprezentative>
             <opera id="rebreanu_ion" categorie="Proză" tip="roman">Ion</opera>
-            <opera id="rebreanu_padurea_spanzuratilor" categorie="Proză" tip="roman">Pădurea spânzuraților</opera>
-            <opera id="rebreanu_ciuleandra" categorie="Proză" tip="roman">Ciuleandra</opera>
             <opera id="rebreanu_rascoala" categorie="Proză" tip="roman">Răscoala</opera>
-            <opera id="rebreanu_adam_si_eva" categorie="Proză" tip="roman">Adam și Eva</opera>
         </opere_reprezentative>
         <bio>Autor esențial al romanului realist românesc, preocupat de destin, conflict social și conștiință.</bio>
         <influente>Tolstoi, Dostoievski, realism francez</influente>
@@ -140,10 +114,6 @@
         <opere_reprezentative>
             <opera id="sadoveanu_hanu_ancutei" categorie="Proză" tip="proză scurtă">Hanu Ancuței</opera>
             <opera id="sadoveanu_baltagul" categorie="Proză" tip="roman">Baltagul</opera>
-            <opera id="sadoveanu_fratia_jderi" categorie="Proză" tip="roman">Frații Jderi</opera>
-            <opera id="sadoveanu_neamul_soimarestilor" categorie="Proză" tip="roman">Neamul Șoimăreștilor</opera>
-            <opera id="sadoveanu_zodia_cancerului" categorie="Proză" tip="roman">Zodia Cancerului</opera>
-            <opera id="sadoveanu_creanga_de_aur" categorie="Proză" tip="roman">Creanga de aur</opera>
         </opere_reprezentative>
         <bio>Prozator al Moldovei arhaice, al naturii și al marilor narațiuni istorice.</bio>
         <influente>Folclor moldovenesc, mituri populare, natură</influente>
@@ -160,10 +130,7 @@
         <curent>Realism balzacian</curent>
         <opere_reprezentative>
             <opera id="calinescu_enigma_otiliei" categorie="Proză" tip="roman">Enigma Otiliei</opera>
-            <opera id="calinescu_viata_lui_eminescu" categorie="Eseu" tip="biografie critică">Viața lui Mihai Eminescu</opera>
-            <opera id="calinescu_istoria_literaturii" categorie="Eseu" tip="istorie literară">Istoria literaturii române</opera>
             <opera id="calinescu_bietul_ioanide" categorie="Proză" tip="roman">Bietul Ioanide</opera>
-            <opera id="calinescu_scrinul_negru" categorie="Proză" tip="roman">Scrinul negru</opera>
         </opere_reprezentative>
         <bio>Critic literar, romancier și autor al uneia dintre cele mai importante istorii literare românești.</bio>
         <influente>Balzac, Dostoievski, critica europeană</influente>
@@ -181,8 +148,6 @@
         <opere_reprezentative>
             <opera id="camil_ultima_noapte" categorie="Proză" tip="roman">Ultima noapte de dragoste, întâia noapte de război</opera>
             <opera id="camil_patul_lui_procust" categorie="Proză" tip="roman">Patul lui Procust</opera>
-            <opera id="camil_suflete_tari" categorie="Altele" tip="dramă">Suflete tari</opera>
-            <opera id="camil_act_venetian" categorie="Altele" tip="dramă">Act venețian</opera>
         </opere_reprezentative>
         <bio>Romancier și dramaturg modernist, concentrat pe autenticitate și analiza conștiinței.</bio>
         <influente>Proust, Descartes, experiența de război</influente>
@@ -200,52 +165,10 @@
         <opere_reprezentative>
             <opera id="preda_morometii" categorie="Proză" tip="roman">Moromeții</opera>
             <opera id="preda_cel_mai_iubit" categorie="Proză" tip="roman">Cel mai iubit dintre pământeni</opera>
-            <opera id="preda_intrusul" categorie="Proză" tip="roman">Intrusul</opera>
-            <opera id="preda_risipitorii" categorie="Proză" tip="roman">Risipitorii</opera>
-            <opera id="preda_viata_ca_o_prada" categorie="Eseu" tip="memorialistică">Viața ca o pradă</opera>
         </opere_reprezentative>
         <bio>Prozator major al secolului XX, preocupat de lumea rurală și de raportul individului cu istoria.</bio>
         <influente>Realism rus, experiența rurală, epoca postbelică</influente>
         <teme_principale>țăran, familie, colectivizare, libertate, destin</teme_principale>
-    </autor>
-
-    <autor id="11">
-        <nume>Tudor Arghezi</nume>
-        <oras>București</oras>
-        <lat>44.4268</lat>
-        <lng>26.1025</lng>
-        <regiune>Muntenia</regiune>
-        <perioada>1880-1967</perioada>
-        <curent>Modernism</curent>
-        <opere_reprezentative>
-            <opera id="arghezi_testament" categorie="Poezie" tip="poem">Testament</opera>
-            <opera id="arghezi_flori_de_mucigai" categorie="Poezie" tip="volum">Flori de mucigai</opera>
-            <opera id="arghezi_psalmii" categorie="Poezie" tip="poeme">Psalmii</opera>
-            <opera id="arghezi_cuvinte_potrivite" categorie="Poezie" tip="volum">Cuvinte potrivite</opera>
-            <opera id="arghezi_carticica" categorie="Poezie" tip="volum">Cărticica de seară</opera>
-        </opere_reprezentative>
-        <bio>Poet modernist al expresiei dense și al tensiunii dintre sacru și profan.</bio>
-        <influente>Baudelaire, expresionism, tradiție religioasă</influente>
-        <teme_principale>divinitate, limbaj, estetică a urâtului, condiție umană</teme_principale>
-    </autor>
-
-    <autor id="12">
-        <nume>Ion Barbu</nume>
-        <oras>Câmpulung Muscel</oras>
-        <lat>45.2667</lat>
-        <lng>25.0333</lng>
-        <regiune>Muntenia</regiune>
-        <perioada>1895-1961</perioada>
-        <curent>Ermetism</curent>
-        <opere_reprezentative>
-            <opera id="barbu_riga_crypto" categorie="Poezie" tip="baladă">Riga Crypto și lapona Enigel</opera>
-            <opera id="barbu_joc_secund" categorie="Poezie" tip="volum">Joc secund</opera>
-            <opera id="barbu_uvedenrode" categorie="Poezie" tip="poem">Uvedenrode</opera>
-            <opera id="barbu_din_ceas_dedus" categorie="Poezie" tip="poem">Din ceas, dedus</opera>
-        </opere_reprezentative>
-        <bio>Poet ermetic și matematician, cunoscut pentru abstractizare și densitate simbolică.</bio>
-        <influente>Mallarmé, matematică, simbolism, ermetism</influente>
-        <teme_principale>abstractizare, joc, geometrie poetică, mister</teme_principale>
     </autor>
 
 </autori>

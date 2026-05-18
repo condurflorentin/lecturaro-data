@@ -1,71 +1,36 @@
 {
-  "versiune": "1.0",
-  "ultima_actualizare": "2026-05-11",
+  "versiune": "1.1",
+  "ultima_actualizare": "2026-05-18",
   "descriere": "Catalog canonic de opere pentru determinarea similarității în LecturăRO.",
   "opere": [
     { "id": "eminescu_luceafarul", "autor_id": 1, "autor": "Mihai Eminescu", "titlu": "Luceafărul", "categorie": "Poezie", "tip": "poem", "oras": "Botoșani", "regiune": "Moldova" },
-    { "id": "eminescu_scrisoarea_i", "autor_id": 1, "autor": "Mihai Eminescu", "titlu": "Scrisoarea I", "categorie": "Poezie", "tip": "poem filosofic", "oras": "Botoșani", "regiune": "Moldova" },
     { "id": "eminescu_floare_albastra", "autor_id": 1, "autor": "Mihai Eminescu", "titlu": "Floare Albastră", "categorie": "Poezie", "tip": "poem", "oras": "Botoșani", "regiune": "Moldova" },
-    { "id": "eminescu_oda", "autor_id": 1, "autor": "Mihai Eminescu", "titlu": "Odă (în metru antic)", "categorie": "Poezie", "tip": "poem", "oras": "Botoșani", "regiune": "Moldova" },
-    { "id": "eminescu_glossa", "autor_id": 1, "autor": "Mihai Eminescu", "titlu": "Glossă", "categorie": "Poezie", "tip": "poem", "oras": "Botoșani", "regiune": "Moldova" },
-    { "id": "eminescu_rugaciunea", "autor_id": 1, "autor": "Mihai Eminescu", "titlu": "Rugăciunea unui dac", "categorie": "Poezie", "tip": "poem", "oras": "Botoșani", "regiune": "Moldova" },
-    { "id": "eminescu_lacul", "autor_id": 1, "autor": "Mihai Eminescu", "titlu": "Lacul", "categorie": "Poezie", "tip": "poem", "oras": "Botoșani", "regiune": "Moldova" },
-    { "id": "eminescu_dorinta", "autor_id": 1, "autor": "Mihai Eminescu", "titlu": "Dorința", "categorie": "Poezie", "tip": "poem", "oras": "Botoșani", "regiune": "Moldova" },
 
     { "id": "blaga_corola", "autor_id": 2, "autor": "Lucian Blaga", "titlu": "Eu nu strivesc corola de minuni a lumii", "categorie": "Poezie", "tip": "poem", "oras": "Lancrăm", "regiune": "Transilvania" },
     { "id": "blaga_izvorul_noptii", "autor_id": 2, "autor": "Lucian Blaga", "titlu": "Izvorul nopții", "categorie": "Poezie", "tip": "poem", "oras": "Lancrăm", "regiune": "Transilvania" },
-    { "id": "blaga_padure_seculara", "autor_id": 2, "autor": "Lucian Blaga", "titlu": "Pădure seculară", "categorie": "Poezie", "tip": "poem", "oras": "Lancrăm", "regiune": "Transilvania" },
-    { "id": "blaga_mesterul_manole", "autor_id": 2, "autor": "Lucian Blaga", "titlu": "Meșterul Manole", "categorie": "Altele", "tip": "dramă", "oras": "Lancrăm", "regiune": "Transilvania" },
-    { "id": "blaga_trilogia_cunoasterii", "autor_id": 2, "autor": "Lucian Blaga", "titlu": "Trilogia cunoașterii", "categorie": "Eseu", "tip": "filosofie", "oras": "Lancrăm", "regiune": "Transilvania" },
 
     { "id": "creanga_amintiri", "autor_id": 3, "autor": "Ion Creangă", "titlu": "Amintiri din copilărie", "categorie": "Proză", "tip": "roman autobiografic", "oras": "Humulești", "regiune": "Moldova" },
     { "id": "creanga_harap_alb", "autor_id": 3, "autor": "Ion Creangă", "titlu": "Povestea lui Harap-Alb", "categorie": "Proză", "tip": "basm cult", "oras": "Humulești", "regiune": "Moldova" },
-    { "id": "creanga_ivan_turbinca", "autor_id": 3, "autor": "Ion Creangă", "titlu": "Ivan Turbincă", "categorie": "Proză", "tip": "poveste", "oras": "Humulești", "regiune": "Moldova" },
-    { "id": "creanga_soacra", "autor_id": 3, "autor": "Ion Creangă", "titlu": "Soacra cu trei nurori", "categorie": "Proză", "tip": "poveste", "oras": "Humulești", "regiune": "Moldova" },
-    { "id": "creanga_capra", "autor_id": 3, "autor": "Ion Creangă", "titlu": "Capra cu trei iezi", "categorie": "Proză", "tip": "poveste", "oras": "Humulești", "regiune": "Moldova" },
 
     { "id": "cosbuc_nunta_zamfirei", "autor_id": 4, "autor": "George Coșbuc", "titlu": "Nunta Zamfirei", "categorie": "Poezie", "tip": "baladă", "oras": "Hordou", "regiune": "Transilvania" },
     { "id": "cosbuc_doina", "autor_id": 4, "autor": "George Coșbuc", "titlu": "Doina", "categorie": "Poezie", "tip": "poem", "oras": "Hordou", "regiune": "Transilvania" },
-    { "id": "cosbuc_balade_si_idile", "autor_id": 4, "autor": "George Coșbuc", "titlu": "Balade și idile", "categorie": "Poezie", "tip": "volum", "oras": "Hordou", "regiune": "Transilvania" },
 
     { "id": "slavici_moara_cu_noroc", "autor_id": 5, "autor": "Ioan Slavici", "titlu": "Moara cu noroc", "categorie": "Proză", "tip": "nuvelă", "oras": "Șiria", "regiune": "Banat" },
     { "id": "slavici_mara", "autor_id": 5, "autor": "Ioan Slavici", "titlu": "Mara", "categorie": "Proză", "tip": "roman", "oras": "Șiria", "regiune": "Banat" },
-    { "id": "slavici_padureanca", "autor_id": 5, "autor": "Ioan Slavici", "titlu": "Pădureanca", "categorie": "Proză", "tip": "nuvelă", "oras": "Șiria", "regiune": "Banat" },
-    { "id": "slavici_budulea", "autor_id": 5, "autor": "Ioan Slavici", "titlu": "Budulea Taichii", "categorie": "Proză", "tip": "nuvelă", "oras": "Șiria", "regiune": "Banat" },
-    { "id": "slavici_popa_tanda", "autor_id": 5, "autor": "Ioan Slavici", "titlu": "Popa Tanda", "categorie": "Proză", "tip": "nuvelă", "oras": "Șiria", "regiune": "Banat" },
 
     { "id": "rebreanu_ion", "autor_id": 6, "autor": "Liviu Rebreanu", "titlu": "Ion", "categorie": "Proză", "tip": "roman", "oras": "Târlișua", "regiune": "Transilvania" },
-    { "id": "rebreanu_padurea_spanzuratilor", "autor_id": 6, "autor": "Liviu Rebreanu", "titlu": "Pădurea spânzuraților", "categorie": "Proză", "tip": "roman", "oras": "Târlișua", "regiune": "Transilvania" },
-    { "id": "rebreanu_ciuleandra", "autor_id": 6, "autor": "Liviu Rebreanu", "titlu": "Ciuleandra", "categorie": "Proză", "tip": "roman", "oras": "Târlișua", "regiune": "Transilvania" },
     { "id": "rebreanu_rascoala", "autor_id": 6, "autor": "Liviu Rebreanu", "titlu": "Răscoala", "categorie": "Proză", "tip": "roman", "oras": "Târlișua", "regiune": "Transilvania" },
-    { "id": "rebreanu_adam_si_eva", "autor_id": 6, "autor": "Liviu Rebreanu", "titlu": "Adam și Eva", "categorie": "Proză", "tip": "roman", "oras": "Târlișua", "regiune": "Transilvania" },
 
     { "id": "sadoveanu_hanu_ancutei", "autor_id": 7, "autor": "Mihail Sadoveanu", "titlu": "Hanu Ancuței", "categorie": "Proză", "tip": "proză scurtă", "oras": "Pașcani", "regiune": "Moldova" },
     { "id": "sadoveanu_baltagul", "autor_id": 7, "autor": "Mihail Sadoveanu", "titlu": "Baltagul", "categorie": "Proză", "tip": "roman", "oras": "Pașcani", "regiune": "Moldova" },
-    { "id": "sadoveanu_fratia_jderi", "autor_id": 7, "autor": "Mihail Sadoveanu", "titlu": "Frații Jderi", "categorie": "Proză", "tip": "roman", "oras": "Pașcani", "regiune": "Moldova" },
 
     { "id": "calinescu_enigma_otiliei", "autor_id": 8, "autor": "George Călinescu", "titlu": "Enigma Otiliei", "categorie": "Proză", "tip": "roman", "oras": "București", "regiune": "Muntenia" },
-    { "id": "calinescu_viata_lui_eminescu", "autor_id": 8, "autor": "George Călinescu", "titlu": "Viața lui Mihai Eminescu", "categorie": "Eseu", "tip": "biografie critică", "oras": "București", "regiune": "Muntenia" },
-    { "id": "calinescu_istoria_literaturii", "autor_id": 8, "autor": "George Călinescu", "titlu": "Istoria literaturii române", "categorie": "Eseu", "tip": "istorie literară", "oras": "București", "regiune": "Muntenia" },
     { "id": "calinescu_bietul_ioanide", "autor_id": 8, "autor": "George Călinescu", "titlu": "Bietul Ioanide", "categorie": "Proză", "tip": "roman", "oras": "București", "regiune": "Muntenia" },
 
     { "id": "camil_ultima_noapte", "autor_id": 9, "autor": "Camil Petrescu", "titlu": "Ultima noapte de dragoste, întâia noapte de război", "categorie": "Proză", "tip": "roman", "oras": "București", "regiune": "Muntenia" },
     { "id": "camil_patul_lui_procust", "autor_id": 9, "autor": "Camil Petrescu", "titlu": "Patul lui Procust", "categorie": "Proză", "tip": "roman", "oras": "București", "regiune": "Muntenia" },
-    { "id": "camil_suflete_tari", "autor_id": 9, "autor": "Camil Petrescu", "titlu": "Suflete tari", "categorie": "Altele", "tip": "dramă", "oras": "București", "regiune": "Muntenia" },
-    { "id": "camil_act_venetian", "autor_id": 9, "autor": "Camil Petrescu", "titlu": "Act venețian", "categorie": "Altele", "tip": "dramă", "oras": "București", "regiune": "Muntenia" },
 
     { "id": "preda_morometii", "autor_id": 10, "autor": "Marin Preda", "titlu": "Moromeții", "categorie": "Proză", "tip": "roman", "oras": "Siliștea-Gumești", "regiune": "Muntenia" },
-    { "id": "preda_cel_mai_iubit", "autor_id": 10, "autor": "Marin Preda", "titlu": "Cel mai iubit dintre pământeni", "categorie": "Proză", "tip": "roman", "oras": "Siliștea-Gumești", "regiune": "Muntenia" },
-    { "id": "preda_viata_ca_o_prada", "autor_id": 10, "autor": "Marin Preda", "titlu": "Viața ca o pradă", "categorie": "Eseu", "tip": "memorialistică", "oras": "Siliștea-Gumești", "regiune": "Muntenia" },
-
-    { "id": "arghezi_testament", "autor_id": 11, "autor": "Tudor Arghezi", "titlu": "Testament", "categorie": "Poezie", "tip": "poem", "oras": "București", "regiune": "Muntenia" },
-    { "id": "arghezi_flori_de_mucigai", "autor_id": 11, "autor": "Tudor Arghezi", "titlu": "Flori de mucigai", "categorie": "Poezie", "tip": "volum", "oras": "București", "regiune": "Muntenia" },
-    { "id": "arghezi_psalmii", "autor_id": 11, "autor": "Tudor Arghezi", "titlu": "Psalmii", "categorie": "Poezie", "tip": "poeme", "oras": "București", "regiune": "Muntenia" },
-    { "id": "arghezi_cuvinte_potrivite", "autor_id": 11, "autor": "Tudor Arghezi", "titlu": "Cuvinte potrivite", "categorie": "Poezie", "tip": "volum", "oras": "București", "regiune": "Muntenia" },
-
-    { "id": "barbu_riga_crypto", "autor_id": 12, "autor": "Ion Barbu", "titlu": "Riga Crypto și lapona Enigel", "categorie": "Poezie", "tip": "baladă", "oras": "Câmpulung Muscel", "regiune": "Muntenia" },
-    { "id": "barbu_joc_secund", "autor_id": 12, "autor": "Ion Barbu", "titlu": "Joc secund", "categorie": "Poezie", "tip": "volum", "oras": "Câmpulung Muscel", "regiune": "Muntenia" },
-    { "id": "barbu_uvedenrode", "autor_id": 12, "autor": "Ion Barbu", "titlu": "Uvedenrode", "categorie": "Poezie", "tip": "poem", "oras": "Câmpulung Muscel", "regiune": "Muntenia" },
-    { "id": "barbu_din_ceas_dedus", "autor_id": 12, "autor": "Ion Barbu", "titlu": "Din ceas, dedus", "categorie": "Poezie", "tip": "poem", "oras": "Câmpulung Muscel", "regiune": "Muntenia" }
+    { "id": "preda_cel_mai_iubit", "autor_id": 10, "autor": "Marin Preda", "titlu": "Cel mai iubit dintre pământeni", "categorie": "Proză", "tip": "roman", "oras": "Siliștea-Gumești", "regiune": "Muntenia" }
   ]
 }
